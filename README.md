@@ -6,8 +6,8 @@ Proje kaynak kodunu kullanırsanız yaptığınız değişikleri aynı şekilde 
 
 <strong>Proje geliştirilmesine katkıda bulunanlar:</strong>
 
-Oğuz Kırat (@okrt - http://oguzkirat.com)
-Gökmen Güreşçi (@gokmenguresci - http://gokmenguresci.com)
-Ferhat Yeşiltarla
-Canberk Güzeler
+Oğuz Kırat (@okrt - http://oguzkirat.com) <br>
+Gökmen Güreşçi (@gokmenguresci - http://gokmenguresci.com)<br>
+Ferhat Yeşiltarla<br>
+Canberk Güzeler<br>
 Mert Levent
